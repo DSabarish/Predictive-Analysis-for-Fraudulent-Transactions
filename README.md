@@ -7,7 +7,7 @@
 ## Overview
 
 This project aims to develop an advanced machine learning model to detect fraudulent transactions in large datasets—a critical need for financial institutions. The model is designed for high precision and recall, reducing financial losses and safeguarding customer trust.
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/DSabarish/Predictive-Analysis-for-Fraudulent-Transactions/main/Image_1.webp))
+![alt text](https://github.com/DSabarish/Predictive-Analysis-for-Fraudulent-Transactions/blob/main/Image_1.png)
 
 ## Project Structure
 
